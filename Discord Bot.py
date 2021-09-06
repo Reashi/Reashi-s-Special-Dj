@@ -37,4 +37,4 @@ async def on_message(message):
         quote = get_quote()
         await  message.channel.send(random.choice(start_enco))
 
-client.run('ODg0MTk2MjI5OTQ3NDkwMzU0.YTU96A.h9lHOnXZsvhvaJHKH_fGc8bjBzU')
+client.run('ODg0MTk2MjI5OTQ3NDkwMzU0.YTU96A._gW0wD_uZb2TcG25JOCBUL9Dbho')
